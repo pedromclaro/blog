@@ -7,10 +7,10 @@ O Thunderbird é um software de e-mail gratuito e de código aberto que funciona
 
 Me esbarrei com o relatório financeiro de 2022 deles.
 
-## Doações em 2022 passaram de $6MI
+### Doações em 2022 passaram de $6MI
 No[ blog do Thunderbird](https://blog.thunderbird.net/), Ryan Sipes mostra que no ano passado, uma base poderosa de doadores (300.000 usuários diários) contribuiram com um total de $6.442.704 para o projeto e que 99,9% da receita anual vem de doações.
 
-## Números Impressionam
+### Números Impressionam
 Se você olhar para as doações do ano anterior, verá uma diferença absurda!
 
 ![Imagen mostra as doações para o projeto do Thunderbird](https://blog.thunderbird.net/files/2023/05/image.png)
@@ -27,9 +27,8 @@ Em [uma resposta](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-o
 > - 43% das doações em 2022 ficaram entre 5 e 20 dólares.
 > 
 > Na nossa visão, não temos megadoadores. Temos pessoas normais, incríveis 
----
 
-## Lições Importantes
+### Lições Importantes
 
 Este projeto é um grande exemplo a ser seguido.
 
