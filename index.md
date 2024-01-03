@@ -1,5 +1,5 @@
 ---
-title: pedromclaro - blog
+title: pedromclaro
 ---
 
 ### Olá 👋, me chamo Pedro Afonso e este é o meu Blog!
