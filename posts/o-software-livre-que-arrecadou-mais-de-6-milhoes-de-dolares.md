@@ -1,3 +1,7 @@
+---
+title: O Software Livre que Arrecadou Mais de 6 Milhões de Dólares
+---
+
 O Thunderbird é um software de e-mail gratuito e de código aberto que funciona como cliente de e-mails. Ele foi produzido pela Mozilla Foundation, a mesma criadora do navegador Mozilla Firefox.
 
 Me esbarrei com o relatório financeiro de 2022 deles.

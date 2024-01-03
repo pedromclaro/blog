@@ -1,3 +1,7 @@
+---
+title: Definição de Software Livre e Código Aberto
+---
+
 No mundo da programação, nos deparamos com vários projetos que são chamados de open-source, ou seja, que têm o seu código-fonte aberto e disponível para qualquer pessoa ver, modificar, usar e distribuir de acordo com suas licenças.
 
 Alguns exemplos de projetos open-source famosos são o Linux, o Android, o Firefox, o WordPress, o GIT, etc.
