@@ -9,7 +9,6 @@ Alguns exemplos de projetos open-source famosos são o Linux, o Android, o Firef
 
 - Qual é a diferença entre open-source e software livre? 
 - Mas o que significa exatamente ser open-source?
-- ---
 
 É importante entendermos que o termo "livre" em "software livre" **não significa ser grátis**.
 
