@@ -11,7 +11,7 @@ title: pedromclaro
 3. #### [A Melhor Criação da Microsoft](./posts/a-melhor-criacao-da-microsoft.md)
 4. #### ["Welcome to Linux Park!"](./posts/welcome-to-linux-park.md)
 
----
+<hr style="background-color: #707070; height: 1px">
 <center>
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 <img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
