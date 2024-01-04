@@ -3,8 +3,7 @@ title: pedromclaro
 ---
 
 ### Olá 👋, me chamo Pedro Afonso e este é o meu Blog!
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-<img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
+
 
 
 # Publicações
@@ -18,4 +17,5 @@ title: pedromclaro
 <a href= "mailto:1p3dro4fons0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href= "https://pedromclaro.com"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 
-
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+<img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
