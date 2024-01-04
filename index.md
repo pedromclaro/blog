@@ -12,13 +12,14 @@ title: pedromclaro
 4. #### ["Welcome to Linux Park!"](./posts/welcome-to-linux-park.md)
 
 ---
-
+<center>
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+<img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
+</center>
+<!--
 <center>
     <a href= "https://github.com/pedromclaro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href= "https://www.linkedin.com/in/pedroafonsomclaro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href= "https://pedromclaro.com"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </center>
-<center>
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-<img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
-</center>
+-->
