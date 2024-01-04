@@ -12,7 +12,7 @@ Alguns exemplos de projetos open-source famosos são o Linux, o Android, o Firef
 
 É importante entendermos que o termo "livre" em "software livre" **não significa ser grátis**.
 
-> ### Para entender o conceito, você deve pensar em “livre” como em “livre expressão”, não como em “cerveja grátis” - Richard Stallman
+> #### Para entender o conceito, você deve pensar em “livre” como em “livre expressão”, não como em “cerveja grátis” - Richard Stallman
 
 Independentemente de você ter de pagar ou não pelo software, existem quatro critérios que
 definem um software livre:
