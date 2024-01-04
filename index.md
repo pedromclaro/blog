@@ -3,7 +3,8 @@ title: pedromclaro
 ---
 
 ### Olá 👋, me chamo Pedro Afonso e este é o meu Blog!
-
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+<img src="https://img.shields.io/github/license/pedromclaro/blog.svg">
 
 
 # Publicações
