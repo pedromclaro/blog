@@ -44,3 +44,9 @@ B - Veja como continuar expandindo seu conhecimento.
 É verdade que o primeiro post desta série já está publicado em meu blog. Mas consegui fazer alguns ajustes e investimentos para aprimorar a qualidade do conteúdo e tenho certeza que esse novo modelo é bem melhor.
 
 Ainda não tenho uma data marcada para iniciar a série, mas anunciarei o mais rápido que puder!
+
+---
+
+Escrito por [@pedromclaro](https://www.pedromclaro.com)
+
+[← Voltar ao blog](/index.md)

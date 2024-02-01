@@ -67,3 +67,9 @@ E claro, você pode digitar: `wsl --help` Para ver outros comandos importantes.
 Enfim, podemos instalar Docker e por ele instalar outros programas e outras distribuições, até aplicativos com interface gráfica dá pra rodar com o WSL.
 
 O Linux é muito versátil, podemos usá-lo desde em [uma batata](https://www.bbspot.com/news/2008/12/linux-on-a-potato.html) até no Windows :)
+
+---
+
+Escrito por [@pedromclaro](https://www.pedromclaro.com)
+
+[← Voltar ao blog](/index.md)

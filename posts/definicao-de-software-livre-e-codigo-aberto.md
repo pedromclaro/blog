@@ -17,23 +17,23 @@ Alguns exemplos de projetos open-source famosos são o Linux, o Android, o Firef
 Independentemente de você ter de pagar ou não pelo software, existem quatro critérios que
 definem um software livre:
 
-### 0. A liberdade de executar o programa como você deseja, para qualquer finalidade
+#### 0. A liberdade de executar o programa como você deseja, para qualquer finalidade
 
 O que você irá fazer, onde e o real propósito do uso não é restringido.
 
-### 1. A liberdade de estudar como o programa funciona e de alterá-lo para que ele compute seus dados da maneira como você deseja
+#### 1. A liberdade de estudar como o programa funciona e de alterá-lo para que ele compute seus dados da maneira como você deseja
 
 Qualquer pessoa pode alterar o software de acordo com suas idéias e necessidades, acesso ao código fonte é um pré-requisito e todos os arquivos que compõem o software devem estar disponíveis em um formato legível. 
 
 Esse direito se aplica a um único usuário que pode querer adicionar um único recurso, mas também a empresas.
 
-### 2. A liberdade de redistribuir cópias para ajudar os outros
+#### 2. A liberdade de redistribuir cópias para ajudar os outros
 
 Esta liberdade permite e encoraja cada usuário a compartilhar o software com outras pessoas.
 
 Com esta ampla distribuição, formam comunidades de usuários e desenvolvedores, que juntos desenvolvem e aprimoram ainda mais o software para o benefício de todos.
 
-### 3. A liberdade de distribuir cópias de suas versões modificadas para outras pessoas
+#### 3. A liberdade de distribuir cópias de suas versões modificadas para outras pessoas
 
 Além da liberdade anterior, podemos distribuir o software livre **modificado**.  
 
@@ -41,7 +41,7 @@ Qualquer pessoa que fizer alterações em um software livre tem o direito de dis
 
 Mas é obrigado a distribuir essa modificação e mesmo sendo um projeto maior ele irá herdar as liberdades do software original.
 
----
+### A origem
 
 A idéia de software livre, de liberdade, vem de um movimento social e político contra softwares que não disponibiliza essas liberdades acima, o qual chamamos de software proprietário.
 
@@ -74,3 +74,9 @@ A empresa escreve o que você pode ou não fazer com o software na licença. Por
 E como as necessidades e os motivos podem variar muito, existem várias licenças diferentes para o software.
 
 Os que defendem o software livre e os que apoiam o código aberto criaram suas próprias organizações, que hoje são responsáveis por fazer as licenças do software de acordo com seus princípios.
+
+---
+
+Escrito por [@pedromclaro](https://www.pedromclaro.com)
+
+[← Voltar ao blog](/index.md)

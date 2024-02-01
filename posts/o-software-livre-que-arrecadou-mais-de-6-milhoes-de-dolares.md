@@ -39,3 +39,9 @@ Nas considerações finais Ryan Sipes disse:
 Com certeza, pedir doações e explicar como elas beneficiarão o projeto, de uma forma bem transparente faz muita diferença.
 
 Algo mais te chamou a atenção?
+
+---
+
+Escrito por [@pedromclaro](https://www.pedromclaro.com)
+
+[← Voltar ao blog](/index.md)
