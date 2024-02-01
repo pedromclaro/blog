@@ -1,6 +1,9 @@
 ---
 title: Definição de Software Livre e Código Aberto
 ---
+[← Voltar ao blog](https://blog.pedromclaro.com)
+<p class="post-info"><strong>2 min de leitura</strong> • <i class="tag1__linux">linux</i> <i class="tag4__historia">história</i> <i class="tag5__software-livre">software livre</i></p>
+
 ## Definição de Software Livre e Código Aberto
 
 No mundo da programação, nos deparamos com vários projetos que são chamados de open-source, ou seja, que têm o seu código-fonte aberto e disponível para qualquer pessoa ver, modificar, usar e distribuir de acordo com suas licenças.

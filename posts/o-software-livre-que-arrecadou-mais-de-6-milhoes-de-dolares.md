@@ -1,6 +1,9 @@
 ---
 title: O Software Livre que Arrecadou Mais de 6 Milhões de Dólares
 ---
+[← Voltar ao blog](https://blog.pedromclaro.com)
+<p class="post-info"><strong>2 min de leitura</strong> • <i class="tag6__noticia">notícia</i> <i class="tag5__software-livre">software livre</i></p>
+
 ## O Software Livre que Arrecadou Mais de 6 Milhões de Dólares
 
 O Thunderbird é um software de e-mail gratuito e de código aberto que funciona como cliente de e-mails. Ele foi produzido pela Mozilla Foundation, a mesma criadora do navegador Mozilla Firefox.

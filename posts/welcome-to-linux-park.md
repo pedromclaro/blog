@@ -1,6 +1,9 @@
 ---
 title: "Welcome to Linux Park!"
 ---
+[← Voltar ao blog](https://blog.pedromclaro.com)
+<p class="post-info"><strong>2 min de leitura</strong> • <i class="tag1__linux">linux</i> <i class="tag6__noticia">notícia</i></p>
+
 ## "Welcome to Linux Park!"
 
 É com muita felicidade que compartilho com vocês um novo projeto no qual venho trabalhando em horas vagas. **EM HORAS VAGAS!**

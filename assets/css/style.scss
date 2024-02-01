@@ -52,26 +52,34 @@ blockquote > p {
   font-size: 1rem;
 }
 
-strong {
-  margin-right: 5px;
-}
-
 i {
   padding: 3px 10px;
   border-radius: 5px;
   font-style: normal;
 }
 
-i.tag1 {
+i.tag1__linux {
   background-color: rgba(154, 255, 255, 0.5);
 }
 
-i.tag2{
+i.tag2__microsoft{
   background-color: rgba(255, 157, 255, 0.5);
 }
 
-i.tag3 {
+i.tag3__tutorial {
   background-color: rgba(255, 255, 156, 0.5);
+}
+
+i.tag4__historia {
+  background-color: rgba(255, 156, 156, 0.5);
+}
+
+i.tag5__software-livre {
+  background-color: rgba(156, 255, 156, 0.5);
+}
+
+i.tag6__noticia {
+  background-color: rgba(156, 156, 255, 0.5);
 }
 
 .markdown-body hr {
