@@ -1,7 +1,7 @@
 ---
 title: A Melhor Criação da Microsoft
 ---
-# A melhor Criação da Microsoft
+## A melhor Criação da Microsoft
 > ### "Se a Microsoft já ama o Linux, então eu já ganhei" - Linus Torvalds
 
 É meus amigos, faz um bom tempo que a Microsoft passou a adotar e apoiar o Linux em seus produtos e serviços.

@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Linux Park!"
 ---
-# "Welcome to Linux Park!"
+## "Welcome to Linux Park!"
 
 É com muita felicidade que compartilho com vocês um novo projeto no qual venho trabalhando em horas vagas. **EM HORAS VAGAS!**
 
