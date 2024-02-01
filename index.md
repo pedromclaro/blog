@@ -1,7 +1,6 @@
 ---
 title: pedromclaro
 ---
-## pedromclaro Blog
 Um serviço de backup para tudo que descobri, assimilei, absorvi, compreendi e outros sinônimos de aprendi.
 
 ## Publicações
