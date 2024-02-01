@@ -72,4 +72,4 @@ O Linux é muito versátil, podemos usá-lo desde em [uma batata](https://www.bb
 
 Escrito por [@pedromclaro](https://www.pedromclaro.com)
 
-[← Voltar ao blog](/index.md)
+[← Voltar ao blog](https://blog.pedromclaro.com)

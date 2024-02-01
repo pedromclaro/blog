@@ -79,4 +79,4 @@ Os que defendem o software livre e os que apoiam o código aberto criaram suas p
 
 Escrito por [@pedromclaro](https://www.pedromclaro.com)
 
-[← Voltar ao blog](/index.md)
+[← Voltar ao blog](https://blog.pedromclaro.com)

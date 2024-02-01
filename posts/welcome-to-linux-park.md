@@ -49,4 +49,4 @@ Ainda não tenho uma data marcada para iniciar a série, mas anunciarei o mais r
 
 Escrito por [@pedromclaro](https://www.pedromclaro.com)
 
-[← Voltar ao blog](/index.md)
+[← Voltar ao blog](https://blog.pedromclaro.com)

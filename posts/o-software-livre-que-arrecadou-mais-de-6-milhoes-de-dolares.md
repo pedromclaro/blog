@@ -44,4 +44,4 @@ Algo mais te chamou a atenção?
 
 Escrito por [@pedromclaro](https://www.pedromclaro.com)
 
-[← Voltar ao blog](/index.md)
+[← Voltar ao blog](https://blog.pedromclaro.com)
