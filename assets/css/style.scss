@@ -48,6 +48,27 @@ blockquote > p {
   color: #919191;
 }
 
+.post-info {
+  font-size: 1rem;
+}
+
+i {
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+
+i.tag1 {
+  background-color: rgba(0, 255, 255, 0.5);
+}
+
+i.tag2{
+  background-color: rgba(255, 0, 255, 0.5);
+}
+
+i.tag3 {
+  background-color: rgba(255, 255, 0, 0.5);
+}
+
 .markdown-body hr {
   height: .10em;
   padding: 0;
