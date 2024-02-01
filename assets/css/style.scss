@@ -43,3 +43,15 @@ li {
 blockquote > p {
   color: #919191;
 }
+
+.markdown-body hr {
+  height: .10em;
+  padding: 0;
+  margin: 30px 0;
+  background-color: #919191;
+  border: 0;
+}
+
+.footer .border-top .border-gray-light .mt-5 .pt-3 .text-right .text-gray {
+  display: none;
+}
