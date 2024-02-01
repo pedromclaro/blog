@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #0D1117;
+  color: #fff;
+}
+
+h1 {
+  display: none;
+}
+
+.markdown-body h3 {
+  font-size: 1.48rem;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+li {
+  font-size: 1.2rem;
+}
+
+blockquote > p {
+  color: #919191;
+}
