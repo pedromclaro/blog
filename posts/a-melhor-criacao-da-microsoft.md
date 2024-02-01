@@ -2,7 +2,7 @@
 title: A Melhor Criação da Microsoft
 ---
 [← Voltar ao blog](https://blog.pedromclaro.com)
-<p class="post-info">2 min de leitura <i class="tag1">linux</i> <i class="tag2">microsoft</i> <i class="tag3">tutorial</i></p>
+<p class="post-info"><strong>2 min de leitura</strong> <i class="tag1">linux</i> <i class="tag2">microsoft</i> <i class="tag3">tutorial</i></p>
 
 
 ## A melhor Criação da Microsoft
