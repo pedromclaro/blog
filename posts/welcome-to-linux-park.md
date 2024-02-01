@@ -19,23 +19,23 @@ Brincadeiras à parte, tenho certeza que este conteúdo será de ajuda para pess
 
 O conteúdo será dividido em semanas, duas vezes por semana (A e B):
 
-## Semana 1
+### Semana 1
 
 A - Um breve resumo da história da criação do Linux.
 
 B -  Aprenda sobre e descubra as diversas distribuições Linux.
 
-## Semana 2
+### Semana 2
 
 A - Guia passo a passo de como instalar uma distro Linux.
 
 B - Explore as interfaces de usuários e como personalizá-las.
 
-## Semana 3
+### Semana 3
 
 A e B - Aprenda os fundamentos do terminal e como gerenciar software usando comandos de terminal e gerenciadores de pacotes.
 
-## Semana 4
+### Semana 4
 
 A - Segurança, descubra como manter seu sistema seguro.
 
