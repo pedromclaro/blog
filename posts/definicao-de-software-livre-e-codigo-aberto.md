@@ -2,7 +2,7 @@
 title: Definição de Software Livre e Código Aberto
 ---
 [← Voltar ao blog](https://blog.pedromclaro.com)
-<p class="post-info">2 min de leitura • <i class="tag1__linux">linux</i> <i class="tag4__historia">história</i> <i class="tag5__software-livre">software livre</i></p>
+<p class="post-info"><i class="tag1__linux">linux</i> <i class="tag4__historia">história</i> <i class="tag5__software-livre">software livre</i></p>
 
 ## Definição de Software Livre e Código Aberto
 
