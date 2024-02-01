@@ -2,7 +2,7 @@
 title: "Welcome to Linux Park!"
 ---
 [← Voltar ao blog](https://blog.pedromclaro.com)
-<p class="post-info"><strong>2 min de leitura</strong> • <i class="tag1__linux">linux</i> <i class="tag6__noticia">notícia</i></p>
+<p class="post-info">2 min de leitura • <i class="tag1__linux">linux</i> <i class="tag6__noticia">notícia</i></p>
 
 ## "Welcome to Linux Park!"
 
